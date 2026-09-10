@@ -24,6 +24,8 @@ public class CartTest extends BaseClass {
                 ConfigReader.getProperty("password"));
 
         loginPage.clickLogin();
+        
+        
 
         ProductsPage productsPage =
                 new ProductsPage(driver);
