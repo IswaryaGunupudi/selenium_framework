@@ -1,0 +1,13 @@
+2026-09-10 17:18:04 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\svspr\eclipse-workspace\selenium_framework\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-09-10 17:18:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\svspr\eclipse-workspace\selenium_framework\testng.xml
+
+2026-09-10 17:19:06 INFO  LoginTest:14 - Start test case
+2026-09-10 17:19:07 INFO  LoginTest:14 - Entered username and password
+2026-09-10 17:19:07 INFO  LoginTest:14 - Clicked on login button
+2026-09-10 17:19:08 INFO  LoginTest:28 - Login test passed
+2026-09-10 18:27:17 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\svspr\eclipse-workspace\selenium_framework\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-09-10 18:27:30 INFO  LoginTest:14 - Start test case
+2026-09-10 18:27:30 INFO  LoginTest:14 - Entered username and password
+2026-09-10 18:27:31 INFO  LoginTest:14 - Clicked on login button
+2026-09-10 18:27:31 INFO  LoginTest:28 - Login test passed
